@@ -4,7 +4,7 @@
     "category": "Developer Tools",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Bitbucket+Connector",
     "description": "The Bitbucket connector allows you to access the exposed Bitbucket REST API through WSO2 ESB. Bitbucket is a hosting site for the distributed version control systems Git and Mercurial. Using the Bitbucket connector, your application can allow users to sign in, and access Bitbucket resources such as an individual (or team) account, repositories, and aspects of these resources such as change sets or comments.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
